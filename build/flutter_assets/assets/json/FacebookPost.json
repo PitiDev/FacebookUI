@@ -1,0 +1,25 @@
+[
+  {
+    "profile_image" : "assets/images/piti.png",
+    "title": "ສະບາຍດີ ພີ່ນ້ອງ Flutter Ui Facebook",
+    "user_name" : "Piti Phanthasombath",
+    "date_posted" : "07-04-2020",
+    "media_path" : "assets/images/piti01.jpg",
+    "people_reacted" : "ສະບາຍດີ ພີ່ນ້ອງ",
+    "no_of_reactions": "21 comments",
+    "comments_visible": true,
+    "comments" : [
+      {
+        "cprofile_image" : "assets/images/piti02.jpg",
+        "ctitle": "This is really cool",
+        "cuser_name" : "Piti555"
+      },
+      {
+        "cprofile_image" : "assets/images/piti03.jpg",
+        "ctitle": "Wow",
+        "cuser_name" : "Piti777"
+      }
+    ]
+  }
+
+]
